@@ -1,10 +1,6 @@
-# Değer Partisi Mersin İl Başkanlığı
+# Değer Partisi Mersin İl Başkanlığı — V2
 
-GitHub Pages için hazırlanmış mobil uyumlu iletişim sitesi.
+GitHub Pages için hazırlanmış mobil uyumlu kurumsal iletişim sitesi.
 
-## Yayınlama
-1. GitHub'da yeni bir repository oluşturun.
-2. Bu ZIP içindeki dosyaları repository'nin ana dizinine yükleyin.
-3. Settings > Pages bölümüne girin.
-4. Source: Deploy from a branch, Branch: main / root seçin.
-5. Save'e basın.
+## Güncelleme
+Repository'deki mevcut `index.html`, `manifest.json`, `README.md` ve `assets/iletisim.jpg` dosyalarının üzerine bu paketteki dosyaları yükleyin. GitHub Pages otomatik olarak yeniden yayınlanacaktır.

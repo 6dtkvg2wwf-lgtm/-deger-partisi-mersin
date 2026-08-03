@@ -1,1 +1,8 @@
-{"name":"Değer Partisi Mersin İl Başkanlığı","short_name":"Değer Mersin","start_url":"./","display":"standalone","background_color":"#f5f8fb","theme_color":"#082d5b","lang":"tr"}
+{
+  "name": "Değer Partisi Mersin İl Başkanlığı",
+  "short_name": "Değer Mersin",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f8fb",
+  "theme_color": "#062653"
+}
